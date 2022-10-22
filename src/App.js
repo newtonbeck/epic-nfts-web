@@ -5,7 +5,7 @@ import myEpicNFT from './utils/MyEpicNFT.json';
 
 const App = () => {
 
-  const CONTRACT_ADDRESS = "0x7094d6bc62Cb6037F029DbccF270F5E0Ca7FBcC0";
+  const CONTRACT_ADDRESS = "0xD5391e75E4e3DeE5672252665f30abA1BaA20193";
 
   const isWalletConnected = () => window.ethereum;
 
